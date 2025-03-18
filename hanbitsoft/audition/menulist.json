@@ -1,0 +1,122 @@
+[
+    {
+        "title": "오디션 데스크",
+        "link": "/",
+        "submenus": [
+            {
+                "title": "공지사항",
+                "link": "/"
+            },
+            {
+                "title": "업데이트",
+                "link": "/"
+            },
+            {
+                "title": "이벤트",
+                "link": "/"
+            },
+            {
+                "title": "소통공간",
+                "link": "/"
+            }
+        ]
+    },
+    {
+        "title": "스튜디오 자료실",
+        "link": "/",
+        "submenus": [
+            {
+                "title": "다운로드",
+                "link": "/"
+            },
+            {
+                "title": "오디션 가이드",
+                "link": "/"
+            },
+            {
+                "title": "오디션 쥬크박스",
+                "link": "/"
+            },
+            {
+                "title": "멀티미디어",
+                "link": "/"
+            }
+        ]
+    },
+    {
+        "title": "커뮤니티",
+        "link": "/",
+        "submenus": [
+            {
+                "title": "토크라운지",
+                "link": "/"
+            },
+            {
+                "title": "패션갤러리",
+                "link": "/"
+            },
+            {
+                "title": "앙케이트",
+                "link": "/"
+            },
+            {
+                "title": "Auditoon",
+                "link": "/"
+            }
+        ]
+    },
+    {
+        "title": "친구찾기",
+        "link": "/",
+        "submenus": [
+            {
+                "title": "프로필센터",
+                "link": "/"
+            },
+            {
+                "title": "오디션 팸 센터",
+                "link": "/"
+            }
+        ]
+    },
+    {
+        "title": "오디션 랭킹",
+        "link": "/",
+        "submenus": [
+            {
+                "title": "일반",
+                "link": "/"
+            },
+            {
+                "title": "그룹",
+                "link": "/"
+            },
+            {
+                "title": "명예의 전당",
+                "link": "/"
+            }
+        ]
+    },
+    {
+        "title": "고객센터",
+        "link": "/",
+        "submenus": [
+            {
+                "title": "FAQ",
+                "link": "/"
+            },
+            {
+                "title": "1:1문의",
+                "link": "/"
+            },
+            {
+                "title": "운영정책",
+                "link": "/"
+            },
+            {
+                "title": "보안센터",
+                "link": "/"
+            }
+        ]
+    }
+]
