@@ -4,31 +4,31 @@
     "singer": "Alan오디션",
     "song": "https://au-patch.hanbiton.com/music_live/1min/audition_new_1min/k9163.tbm.mp3",
     "bmp": "100",
-    "cover_image": "https://audition.hanbiton.com/OfficialCmsData/Au/Files/17/2025/3/20/1.%ed%95%9c%eb%b9%9b%ec%a7%b1_.png",
-    "new": true    
-  },  
+    "coverimage": "https://audition.hanbiton.com/OfficialCmsData/Au/Files/17/2025/3/20/1.%ed%95%9c%eb%b9%9b%ec%a7%b1_.png",
+    "new": true
+  },
   {
     "title": "스쳐 간 모든 것들",
     "singer": "AlanWavy",
     "song": "https://au-patch.hanbiton.com/music_live/1min/sony_new_1min/k9162.tbm.mp3",
     "bmp": "140",
-    "cover_image": "https://audition.hanbiton.com/OfficialCmsData/Au/Files/17/2025/3/20/Wavy_%ec%8a%a4%ec%b3%90%20%ea%b0%84%20%eb%aa%a8%eb%93%a0%20%ea%b2%83%eb%93%a4.jpg",
-    "new": true    
+    "coverimage": "https://audition.hanbiton.com/OfficialCmsData/Au/Files/17/2025/3/20/Wavy_%ec%8a%a4%ec%b3%90%20%ea%b0%84%20%eb%aa%a8%eb%93%a0%20%ea%b2%83%eb%93%a4.jpg",
+    "new": true
   },
   {
     "title": "Lie your head",
     "singer": "AlanWid",
     "song": "https://au-patch.hanbiton.com/music_live/1min/cj_new_1min/k9161.tbm.mp3",
     "bmp": "134",
-    "cover_image": "https://audition.hanbiton.com/OfficialCmsData/Au/Files/17/2025/3/20/Wid_Lie%20your%20head.jpg",
-    "new": true    
+    "coverimage": "https://audition.hanbiton.com/OfficialCmsData/Au/Files/17/2025/3/20/Wid_Lie%20your%20head.jpg",
+    "new": true
   },
   {
     "title": "Youth",
     "singer": "AlanEVNNE (이븐)",
     "song": "https://au-patch.hanbiton.com/music_live/1min/cj_new_1min/k9160.tbm.mp3",
     "bmp": "137",
-    "cover_image": "https://audition.hanbiton.com/OfficialCmsData/Au/Files/17/2025/3/20/EVNNE%20(%ec%9d%b4%eb%b8%90)_Youth.jpg",
-    "new": false    
+    "coverimage": "https://audition.hanbiton.com/OfficialCmsData/Au/Files/17/2025/3/20/EVNNE%20(%ec%9d%b4%eb%b8%90)_Youth.jpg",
+    "new": false
   }
 ]
